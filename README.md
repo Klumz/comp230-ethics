@@ -2,7 +2,7 @@
 
 ## Question: Should video game developers reconsider their use of symbolism in their games?
 
-While the game industry grows in numbers, so does its influence. There have been multiple cases of controversial symbolism in video games in the past, however has become more prominent during these recent years. A brief example of this would be from the first-person shooter game Destiny 2, where a pair of gauntlets in-game were patched for allegedly resembling a hate symbol from a satiric "religion" known as [Kek](http://thecultofkek.com/). Are such practices necessary?
+While the game industry grows in numbers, so does its influence. There have been multiple cases of controversial symbolism in video games in the past, however has become more prominent during these recent years. A brief example of this would be from the first-person shooter game Destiny 2, where a pair of gauntlets in-game were patched for allegedly resembling a hate symbol from a satiric "religion" known as [Kek](http://thecultofkek.com/). Are such actions necessary? Do they contribute to the future betterment of the video games industry and its wide audience? 
 
 
 Sources:
