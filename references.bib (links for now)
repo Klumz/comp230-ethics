@@ -1,6 +1,37 @@
-http://epub.lib.aalto.fi/en/ethesis/pdf/12276/hse_ethesis_12276.pdf
+@article{davidmyers,
+author = {David Myers},
+title ={Signs, Symbols, Games, and Play},
+journal = {Games and Culture},
+volume = {1},
+number = {1},
+pages = {47-51},
+year = {2006},
+}
 
-http://luisfilipeteixeira.com/fileManager/file/rev%20Games%20and%20Culture_signs%20symbols%20games%20and%20play_Myers.pdf
+@article{jefforkin,
+author = {Jeff Orkin},
+title ={Symbolic representation of game world state: Toward real-time planning in games},
+journal = {Proceedings of the AAAI Workshop on Challenges in Game Artificial Intelligence},
+volume = {5},
+pages = {26-30},
+year = {2004-7},
+}
+
+@online{Depth,
+  author={Freeman, David},
+  title={Four Ways to Use Symbols to Add Emotional Depth to Games},
+  date={2002},
+  url={https://www.gamasutra.com/view/feature/131383/four_ways_to_use_symbols_to_add_.php}
+}
+
+@online{Depth,
+  author={Markham, Xander},
+  title={When I Soar To Worlds Unknown Symbolism and imagery in Myst},
+  date={2010},
+  url={https://www.gamasutra.com/blogs/XanderMarkham/20100515/87335/When_I_Soar_To_Worlds_Unknown_Symbolism_and_imagery_in_Myst.php}
+}
+
+http://epub.lib.aalto.fi/en/ethesis/pdf/12276/hse_ethesis_12276.pdf
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.4228&rep=rep1&type=pdf
 
