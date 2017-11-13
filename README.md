@@ -35,3 +35,6 @@ https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek
 
 7. "Kek" satiric website
 http://thecultofkek.com/
+
+8. Symbolism in Games
+https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
