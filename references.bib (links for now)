@@ -17,6 +17,15 @@ pages = {26-30},
 year = {2004-7},
 }
 
+@article{janet,
+author = {Janet H. Murray},
+title ={Toward a Cultural Theory of Gaming: Digital Games and the Co-Evolution of Media, Mind, and Culture},
+journal = {Popular Communication},
+volume = {4},
+pages = {185-202},
+year = {2006-8-1},
+}
+
 @online{Depth,
   author={Freeman, David},
   title={Four Ways to Use Symbols to Add Emotional Depth to Games},
@@ -24,11 +33,30 @@ year = {2004-7},
   url={https://www.gamasutra.com/view/feature/131383/four_ways_to_use_symbols_to_add_.php}
 }
 
-@online{Depth,
+@online{samit,
+  author={Sarkar, Samit},
+  title={Bungie fixing Destiny 2 armor resembling white nationalist symbol},
+  date={2017},
+  url={https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek-kekistan-flag}
+}
+
+@online{xander,
   author={Markham, Xander},
-  title={When I Soar To Worlds Unknown Symbolism and imagery in Myst},
+  title={When I Soar To Worlds Unknown: Symbolism and imagery in Myst},
   date={2010},
   url={https://www.gamasutra.com/blogs/XanderMarkham/20100515/87335/When_I_Soar_To_Worlds_Unknown_Symbolism_and_imagery_in_Myst.php}
+}
+
+@online{jakub,
+  author={Jakub Mirowski},
+  title={Who's Afraid of the Swastika? Nazi Symbols in Video Games},
+  date={2015},
+  url={https://www.gamepressure.com/e.asp?ID=57}
+}
+
+@online{symbolswearing,
+  title={Symbol Swearing},
+  url={http://tvtropes.org/pmwiki/pmwiki.php/Main/SymbolSwearing}
 }
 
 @mastersthesis{Juhani,
@@ -39,6 +67,5 @@ pages={70},
 url={http://urn.fi/URN:NBN:fi:aalto-201111181320},
 }
 
-https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
 
-http://homes.lmc.gatech.edu/~murray/PC0403_Murray.pdf
+
