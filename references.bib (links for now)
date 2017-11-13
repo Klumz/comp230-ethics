@@ -17,6 +17,15 @@ pages = {26-30},
 year = {2004-7},
 }
 
+article{nieva,
+author = {Eduardo Neiva, Carlo Romano},
+title ={The Semiotic Immersion of Video Games, Gaming Technology and Interactive Strategies},
+journal = {The Public Journal of Semiotics I(2)},
+volume = {5},
+pages = {31-49},
+year = {2007},
+}
+
 @article{janet,
 author = {Janet H. Murray},
 title ={Toward a Cultural Theory of Gaming: Digital Games and the Co-Evolution of Media, Mind, and Culture},
@@ -57,6 +66,13 @@ year = {2006-8-1},
 @online{symbolswearing,
   title={Symbol Swearing},
   url={http://tvtropes.org/pmwiki/pmwiki.php/Main/SymbolSwearing}
+}
+
+@incollection{Bruchansky,
+	year = {2011},
+	title = {The Semiotics of Video Games},
+	author = {Christophe Bruchansky},
+  date={2011},
 }
 
 @mastersthesis{Juhani,
