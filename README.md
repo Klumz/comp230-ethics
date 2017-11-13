@@ -47,5 +47,14 @@ https://www.gamasutra.com/view/news/305791/Bungie_explains_how_a_hate_symbol_end
 10. Who's Afraid of the Swastika? Nazi Symbols in Video Games
 https://www.gamepressure.com/e.asp?ID=57
 
+
+11. The Semiotics of Video Games
+https://www.researchgate.net/publication/315703967_The_Semiotics_of_Video_Games
+
+
+12. The Semiotic Immersion of Video Games,
+Gaming Technology and Interactive Strategies
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.869.8632&rep=rep1&type=pdf
+
 (?) Symbolism in Games
 https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
