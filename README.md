@@ -36,11 +36,14 @@ https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek
 7. "Kek" satiric website
 http://thecultofkek.com/
 
+
 8. Four Ways to Use Symbols to Add Emotional Depth to Games
 https://www.gamasutra.com/view/feature/131383/four_ways_to_use_symbols_to_add_.php
 
+
 9. When I Soar To Worlds Unknown: Symbolism and imagery in Myst
 https://www.gamasutra.com/blogs/XanderMarkham/20100515/87335/When_I_Soar_To_Worlds_Unknown_Symbolism_and_imagery_in_Myst.php
+
 
 (?) Symbolism in Games
 https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
