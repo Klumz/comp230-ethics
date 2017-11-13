@@ -28,8 +28,8 @@ http://homes.lmc.gatech.edu/~murray/PC0403_Murray.pdf
 https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek-kekistan-flag
 
 
-6. "Kek" satiric website
-http://thecultofkek.com/
+6. Symbol Swearing (Video Games)
+http://tvtropes.org/pmwiki/pmwiki.php/Main/SymbolSwearing
 
 
 7. Four Ways to Use Symbols to Add Emotional Depth to Games
@@ -39,6 +39,13 @@ https://www.gamasutra.com/view/feature/131383/four_ways_to_use_symbols_to_add_.p
 8. When I Soar To Worlds Unknown: Symbolism and imagery in Myst
 https://www.gamasutra.com/blogs/XanderMarkham/20100515/87335/When_I_Soar_To_Worlds_Unknown_Symbolism_and_imagery_in_Myst.php
 
+
+9. Bungie explains how a hate symbol ended up in Destiny 2
+https://www.gamasutra.com/view/news/305791/Bungie_explains_how_a_hate_symbol_ended_up_in_Destiny_2.php
+
+
+10. Who's Afraid of the Swastika? Nazi Symbols in Video Games
+https://www.gamepressure.com/e.asp?ID=57
 
 (?) Symbolism in Games
 https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
