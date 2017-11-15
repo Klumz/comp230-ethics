@@ -28,8 +28,8 @@ http://homes.lmc.gatech.edu/~murray/PC0403_Murray.pdf
 https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek-kekistan-flag
 
 
-6. Symbol Swearing (Video Games)
-http://tvtropes.org/pmwiki/pmwiki.php/Main/SymbolSwearing
+6. Brown v. Entertainment Merchants Association
+https://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Ass%27n
 
 
 7. Four Ways to Use Symbols to Add Emotional Depth to Games
