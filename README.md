@@ -56,5 +56,8 @@ https://www.researchgate.net/publication/315703967_The_Semiotics_of_Video_Games
 Gaming Technology and Interactive Strategies
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.869.8632&rep=rep1&type=pdf
 
+13.The Symbol Grounding Problem
+http://www.summer10.isc.uqam.ca/page/docs/readings/HARNAD_Stevan/symgro.pdf
+
 (?) Symbolism in Games
 https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
