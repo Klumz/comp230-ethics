@@ -16,48 +16,45 @@ http://luisfilipeteixeira.com/fileManager/file/rev%20Games%20and%20Culture_signs
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.4228&rep=rep1&type=pdf
 
 
-3. Character customization in video games as symbolic consumption - how characters are customized
-http://epub.lib.aalto.fi/en/ethesis/pdf/12276/hse_ethesis_12276.pdf
+3. Understanding Video Games: The Essential Introduction
+https://is.muni.cz/el/1421/podzim2016/IM082/Simon_Egenfeldt-Nielson__Jonas_Heide_Smith__Susana_Pajares_Tosca_Understanding_Video_Games_The_Essential_Introduction_2008.pdf
 
 
-4. Toward a Cultural Theory of Gaming: Digital Games and the Co-Evolution of Media, Mind, and Culture
-http://homes.lmc.gatech.edu/~murray/PC0403_Murray.pdf
-
-
-5. Destiny 2 "kek" hate symbol controversy
+4. Destiny 2 "kek" hate symbol controversy
 https://www.polygon.com/2017/9/12/16296256/destiny-2-armor-hate-group-symbol-kek-kekistan-flag
 
 
-6. Brown v. Entertainment Merchants Association
+5. Brown v. Entertainment Merchants Association
 https://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Ass%27n
 
 
-7. Four Ways to Use Symbols to Add Emotional Depth to Games
+6. Four Ways to Use Symbols to Add Emotional Depth to Games
 https://www.gamasutra.com/view/feature/131383/four_ways_to_use_symbols_to_add_.php
 
 
-8. When I Soar To Worlds Unknown: Symbolism and imagery in Myst
+7. When I Soar To Worlds Unknown: Symbolism and imagery in Myst
 https://www.gamasutra.com/blogs/XanderMarkham/20100515/87335/When_I_Soar_To_Worlds_Unknown_Symbolism_and_imagery_in_Myst.php
 
 
-9. Bungie explains how a hate symbol ended up in Destiny 2
+8. Bungie explains how a hate symbol ended up in Destiny 2
 https://www.gamasutra.com/view/news/305791/Bungie_explains_how_a_hate_symbol_ended_up_in_Destiny_2.php
 
 
-10. Who's Afraid of the Swastika? Nazi Symbols in Video Games
+9. Who's Afraid of the Swastika? Nazi Symbols in Video Games
 https://www.gamepressure.com/e.asp?ID=57
 
 
-11. The Semiotics of Video Games
+10. The Semiotics of Video Games
 https://www.researchgate.net/publication/315703967_The_Semiotics_of_Video_Games
 
 
-12. The Semiotic Immersion of Video Games,
+11. The Semiotic Immersion of Video Games,
 Gaming Technology and Interactive Strategies
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.869.8632&rep=rep1&type=pdf
 
-13. The Symbol Grounding Problem
+12. The Symbol Grounding Problem
 http://www.summer10.isc.uqam.ca/page/docs/readings/HARNAD_Stevan/symgro.pdf
+
 
 (?) Symbolism in Games
 https://www.diva-portal.org/smash/get/diva2:832163/FULLTEXT01.pdf
